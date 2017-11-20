@@ -1,0 +1,4 @@
+<IfDefine Free>
+php56 1
+</IfDefine>
+RedirectPermanent /favicon.ico http://association.ace.free.fr/favicon-ace.png
